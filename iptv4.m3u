@@ -1,0 +1,208 @@
+#EXTINF:0 CUID="51190" tvg-name="Das Erste HD" tvg-id="daserste.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_283D_3FB_1_C00000_0_0_0.png" group-title="Free IPTV German",Das Erste HD
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 CUID="51189" tvg-name="ZDF HD" tvg-id="zdf.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2B66_3F3_1_C00000_0_0_0.png" group-title="Free IPTV German",ZDF HD
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:0 CUID="51143" tvg-name="RTL" tvg-id="rtl.de" tvg-logo="https://logo.iptveditor.com/rtl.png" group-title="Free IPTV German",RTL
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51144" tvg-name="Sat 1 Gold" tvg-id="sat1gold.de" tvg-logo="https://logo.iptveditor.com/sat1gold.png" group-title="Free IPTV German",Sat 1 Gold
+https://s6.hopslan.com/goldc/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51145" tvg-name="Sat 1" tvg-id="sat1.de" tvg-logo="https://logo.iptveditor.com/sat1.png" group-title="Free IPTV German",Sat 1
+https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51146" tvg-name="RTL West (18:00-18:30)" tvg-id="rtlwest.de.minus-18" tvg-logo="https://www.publicrelations-germany.com/wp-content/uploads/2013/10/Logo-rtl.png" group-title="Free IPTV German",RTL West (18:00-18:30)
+http://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/low/prog_index.m3u8
+#EXTINF:0 CUID="51147" tvg-name="SAT1 NS/Bremen (17:30-18:00)" tvg-id="sat1ndsbremen.de.minus-18" tvg-logo="https://logo.iptveditor.com/sat1nsbremen.png" group-title="Free IPTV German",SAT1 NS/Bremen (17:30-18:00)
+https://insinceu.hs.llnwd.net/sat1studio_ha/looplive/loop_ha/playlist.m3u8
+#EXTINF:0 CUID="51148" tvg-name="N24 Doku" group-title="Free IPTV German",N24 Doku
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 CUID="51149" tvg-name="Wedo Movies*" tvg-id="wedomovies.de" tvg-logo="https://tbivision.com/files/2022/05/Unknown-1.png" group-title="Free IPTV German",Wedo Movies*
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-samsunguk/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0
+#EXTINF:0 CUID="51150" tvg-name="Disney Channel" tvg-id="disneychannel.de" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="Free IPTV German",Disney Channel
+https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51151" tvg-name="Tele 5" tvg-id="tele5.de" tvg-logo="https://logo.iptveditor.com/tele5.png" group-title="Free IPTV German",Tele 5
+https://s6.hopslan.com/tele5c/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51152" tvg-name="Sixx" tvg-id="sixx.de" tvg-logo="https://logo.iptveditor.com/sixx.png" group-title="Free IPTV German",Sixx
+https://s6.hopslan.com/sixxc/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51153" tvg-name="VOX" tvg-id="vox.de" tvg-logo="https://logo.iptveditor.com/vox.png" group-title="Free IPTV German",VOX
+https://s6.hopslan.com/voxq1/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51154" tvg-name="Kabel 1 Doku" tvg-id="kabeleinsdoku.de" tvg-logo="https://www.liwest.at/uploads/tx_liwestchannels/kabel1_doku_logo.png" group-title="Free IPTV German",Kabel 1 Doku
+https://s6.hopslan.com/doku/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51155" tvg-name="Kabel 1" tvg-id="kabeleins.de" tvg-logo="https://logo.iptveditor.com/kabel1.png" group-title="Free IPTV German",Kabel 1
+https://s6.hopslan.com/kabel1q1/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51156" tvg-name="Pro 7 MAXX" tvg-id="pro7maxx.de" tvg-logo="http://www.satzentrale.de/sattvworld/ProSieben_MAXX.png" group-title="Free IPTV German",Pro 7 MAXX
+https://s6.hopslan.com/pro7maxxv/index.m3u8
+#EXTINF:0 CUID="51157" tvg-name="Pro 7" tvg-id="prosieben.de" tvg-logo="http://img3.wikia.nocookie.net/__cb20080709172503/lostpedia/de/images/d/d2/Pro_7-logo.png" group-title="Free IPTV German",Pro 7
+https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51158" tvg-name="Super RTL" tvg-id="superrtl.de" tvg-logo="https://logo.iptveditor.com/superrtl.png" group-title="Free IPTV German",Super RTL
+https://s6.hopslan.com/superc/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51159" tvg-name="Nitro" tvg-id="nitro.de" tvg-logo="https://logo.iptveditor.com/nitro.png" group-title="Free IPTV German",Nitro
+https://s6.hopslan.com/nitrov/index.m3u8
+#EXTINF:0 CUID="51160" tvg-name="RTL II" tvg-id="rtlii.de" tvg-logo="https://logo.iptveditor.com/rtlii.png" group-title="Free IPTV German",RTL II
+https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51161" tvg-name="Der Aktionär TV" tvg-logo="https://m.media-amazon.com/images/I/71Es2BBTzfL.png" group-title="Free IPTV German",Der Aktionär TV
+https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
+#EXTINF:0 CUID="51162" tvg-name="Radio Weser TV Bremen" tvg-logo="https://www.medialabnord.de/wp-content/uploads/2020/09/logo-cookie.jpg" group-title="Free IPTV German",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:0 CUID="51163" tvg-name="Horse & Country TV" tvg-logo="https://horseandcountry.tv/wp-content/themes/hctv/img/hctv_logo.png" group-title="Free IPTV German",Horse & Country TV
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:0 CUID="51164" tvg-name="MyTVplus" tvg-logo="https://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="Free IPTV German",MyTVplus
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:0 CUID="51165" tvg-name="Muxx.tv" tvg-logo="https://www.muxx.tv/img/header.png" group-title="Free IPTV German",Muxx.tv
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestream99/master.m3u8
+#EXTINF:0 CUID="51166" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png" group-title="Free IPTV German",oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:0 CUID="51167" tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" group-title="Free IPTV German",Nickelodeon
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:0 CUID="51168" tvg-name="Red Bull TV" tvg-id="redbulltv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png" group-title="Free IPTV German",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 CUID="51169" tvg-name="Welt der Wunder" tvg-id="weltderwunder.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png" group-title="Free IPTV German",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/chunks.m3u8
+#EXTINF:0 CUID="51170" tvg-name="KiKA HD" tvg-id="kika.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2B98_3F2_1_C00000_0_0_0.png" group-title="Free IPTV German",KiKA HD
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:0 CUID="51171" tvg-name="Anixe Serie" tvg-id="anixeserie.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_526C_41D_1_C00000_0_0_0.png" group-title="Free IPTV German",Anixe Serie
+http://ma.anixa.tv/clips/stream/anixehd/playlist.php
+#EXTINF:0 CUID="51172" tvg-name="Auftanken TV" tvg-id="AuftankenTV.ch" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_1626_2B5C_13E_820000_0_0_0.png" group-title="Free IPTV German",Auftanken TV
+https://tvoosa-pez0317.sctv.ch/http_adaptive_streaming/OBHLLOAAKEAJNJDG.m3u8
+#EXTINF:0 CUID="51173" tvg-name="Comedy Central (Pluto TV)" tvg-id="comedycentral.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115012_dark_360w_270h.png" group-title="Free IPTV German",Comedy Central (Pluto TV)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcea6bc6fb8890009322ff3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 CUID="51174" tvg-name="Comedy Central Made in Germany" tvg-id="comedycentralmadein.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66615_dark_360w_270h.png" group-title="Free IPTV German",Comedy Central Made in Germany
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 CUID="51132" tvg-name="TLC" tvg-id="tlc.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90212_dark_360w_270h.png" group-title="Free IPTV German",TLC
+https://s6.hopslan.com/tlc/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51133" tvg-name="Comedy Central" tvg-id="comedycentral.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66615_dark_360w_270h.png" group-title="Free IPTV German",Comedy Central
+https://s6.hopslan.com/vivac/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51134" tvg-name="DMAX" tvg-id="dmax.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83579_dark_360w_270h.png" group-title="Free IPTV German",DMAX
+https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="51136" tvg-name="Servus TV HD" tvg-id="servustv.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90473_dark_360w_270h.png" group-title="Free IPTV German",Servus TV HD
+https://stv-live.akamaized.net/hls/live/2031020/lingeoSTVDEwebBU/master.m3u8
+#EXTINF:0 CUID="51137" tvg-name="WDR HD" tvg-id="wdr.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_6EAD_3FD_1_C00000_0_0_0.png" group-title="Free IPTV German",WDR HD
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:0 CUID="51138" tvg-name="Arte HD" tvg-id="arte.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87847_dark_360w_270h.png" group-title="Free IPTV German",Arte HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:0 CUID="51139" tvg-name="ZDF Info HD" tvg-id="zdfinfo.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2BA2_3F2_1_C00000_0_0_0.png" group-title="Free IPTV German",ZDF Info HD
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:0 CUID="51140" tvg-name="ZDF Neo HD" tvg-id="zdfneo.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2B7A_3F3_1_C00000_0_0_0.png" group-title="Free IPTV German",ZDF Neo HD
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:0 CUID="51141" tvg-name="SWR Fernsehen RP HD" tvg-id="swrfernsehenrp.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83775_dark_360w_270h.png" group-title="Free IPTV German",SWR Fernsehen RP HD
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:0 CUID="51142" tvg-name="SWR Fernsehen BW HD" tvg-id="swrfernsehenbw.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83772_dark_360w_270h.png" group-title="Free IPTV German",SWR Fernsehen BW HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:0 CUID="51175" tvg-name="SR Fernsehen HD" tvg-id="srfernsehen.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90621_dark_360w_270h.png" group-title="Free IPTV German",SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:0 CUID="51176" tvg-name="RBB Brandenburg HD" tvg-id="rbbbrandenburg.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90467_dark_360w_270h.png" group-title="Free IPTV German",RBB Brandenburg HD
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
+#EXTINF:0 CUID="51177" tvg-name="RBB Berlin HD" tvg-id="rbbberlin.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_286F_425_1_C00000_0_0_0.png" group-title="Free IPTV German",RBB Berlin HD
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:0 CUID="51178" tvg-name="Radio Bremen" tvg-id="radiobrementv.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_288B_40F_1_C00000_0_0_0.png" group-title="Free IPTV German",Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:0 CUID="51179" tvg-name="NDR Schleswig Holstein" tvg-id="ndrschleswigholstein.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2857_401_1_C00000_0_0_0.png" group-title="Free IPTV German",NDR Schleswig Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:0 CUID="51180" tvg-name="NDR Niedersachsen" tvg-id="ndrniedersachsen.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2857_401_1_C00000_0_0_0.png" group-title="Free IPTV German",NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:0 CUID="51181" tvg-name="NDR Meckl.-Vorpommern" tvg-id="ndrmecklenburgvorpommern.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2857_401_1_C00000_0_0_0.png" group-title="Free IPTV German",NDR Meckl.-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:0 CUID="51182" tvg-name="NDR Hamburg" tvg-id="ndrhamburg.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2857_401_1_C00000_0_0_0.png" group-title="Free IPTV German",NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:0 CUID="51183" tvg-name="MDR Thüringen" tvg-id="mdrthüringen.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_2872_425_1_C00000_0_0_0.png" group-title="Free IPTV German",MDR Thüringen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:0 CUID="51184" tvg-name="MDR Sachsen" tvg-id="mdrsachsen.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83904_dark_360w_270h.png" group-title="Free IPTV German",MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:0 CUID="51185" tvg-name="Hessischer Rundfunk HD" tvg-id="HRFernsehen.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83594_dark_360w_270h.png" group-title="Free IPTV German",Hessischer Rundfunk HD
+http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:0 CUID="51186" tvg-name="BR Fernsehen Süd" tvg-id="brfernsehensüd.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90623_dark_360w_270h.png" group-title="Free IPTV German",BR Fernsehen Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:0 CUID="51187" tvg-name="BR Fernsehen Nord" tvg-id="fernsehennord.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90624_dark_360w_270h.png" group-title="Free IPTV German",BR Fernsehen Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:0 CUID="51188" tvg-name="3Sat" tvg-id="3sat.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2B8E_3F2_1_C00000_0_0_0.png" group-title="Free IPTV German",3Sat
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:0 CUID="51191" tvg-name="health.tv" tvg-id="healthtv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png" group-title="Free IPTV German",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:0 CUID="51192" tvg-name="One HD" tvg-id="one.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2888_40F_1_C00000_0_0_0.png" group-title="Free IPTV German",One HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:0 CUID="51193" tvg-name="MDR S-Anhalt" tvg-id="mdrsanhalt.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_2871_425_1_C00000_0_0_0.png" group-title="Free IPTV German",MDR S-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:0 CUID="51194" tvg-name="Toonami" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/1032461-adult-swims-toonami-celebrates-20-years-action.jpg?itok=ivNl4Ri7" group-title="Free IPTV German",Toonami
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+#EXTINF:0 CUID="51195" tvg-name="Anixe +" tvg-id="anixe.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84044_dark_360w_270h.png" group-title="Free IPTV German",Anixe +
+http://ma.anixa.tv/clips/stream/anixesd/playlist.php
+#EXTINF:0 CUID="51196" tvg-name="SAT1 NS/Bremen (VoD täglich ab 18:00 neu)" tvg-id="sat1ndsbremen.de" tvg-logo="https://logo.iptveditor.com/sat1nsbremen.png" group-title="Free IPTV German",SAT1 NS/Bremen (VoD täglich ab 18:00 neu)
+http://llnw.insinceurope.net/vod/_definst_/sat1/HA/mp4:stream_ha.stream_360p.mp4/playlist.m3u8
+#EXTINF:0 CUID="51220" tvg-name="Eurosport 1 HD*" tvg-id="eurosport1.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_30D6_413_1_C00000_0_0_0.png" group-title="Free IPTV Sport",Eurosport 1 HD*
+https://deutschekanale.com/tvstream/eurosport.mp4
+#EXTINF:0 CUID="51221" tvg-name="Sky Sport News HD" tvg-logo="https://logo.iptveditor.com/skysportnews.png" group-title="Free IPTV Sport",Sky Sport News HD
+https://earthlivecam.com/nopotok/skysportnews.mp4
+#EXTINF:0 CUID="51222" tvg-name="Sportschau Live 2 HD" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_73AE_3BF1_EC_0_0_0_0.png" group-title="Free IPTV Sport",Sportschau Live 2 HD
+https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/index.m3u8
+#EXTINF:0 CUID="51223" tvg-name="ZDF Sport Live HD*" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_19_2B66_3F3_1_C00000_0_0_0.png" group-title="Free IPTV Sport",ZDF Sport Live HD*
+https://www.zdf.de/sport/sport-im-zdf-livestream-live-100.html
+#EXTINF:0 CUID="51224" tvg-name="Pluto TV Sports" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_5A7E_9C5_EC_0_0_0_0.png" group-title="Free IPTV Sport",Pluto TV Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d5aefd87eb3a2717afc6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy={US_PRIVACY}&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 CUID="51225" tvg-name="San Marino Sport HD" tvg-id="sport1.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_0_4A1E_217C_EEEE0000_0_0_0.png" group-title="Free IPTV Sport",San Marino Sport HD
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:0 CUID="51226" tvg-name="Setanta Sports+" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_B175_0_0_0_0_0_0.png" group-title="Free IPTV Sport",Setanta Sports+
+http://91.213.59.156/play/13/index.m3u8
+#EXTINF:0 CUID="51227" tvg-name="Sport+" tvg-id="sport1.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_E21E_52C4_EC_0_0_0_0.png" group-title="Free IPTV Sport",Sport+
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 CUID="51228" tvg-name="Tennis Channel Deutschland*" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_C_299C_CDE9_0_0_0_0.png" group-title="Free IPTV Sport",Tennis Channel Deutschland*
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-tennischannel-int-samsunguk/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0
+#EXTINF:0 CUID="51229" tvg-name="PAC-12 Insider" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_C442_5D7B_EC_0_0_0_0.png" group-title="Free IPTV Sport",PAC-12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="51230" tvg-name="Eurosport 2 (RU)" group-title="Free IPTV Sport",Eurosport 2 (RU)
+https://sc.id-tv.kz/Eurosport_2HD.m3u8
+#EXTINF:0 CUID="51231" tvg-name="Viasat Sport (RU)" group-title="Free IPTV Sport",Viasat Sport (RU)
+https://sc.id-tv.kz/ViasatSport_34_35.m3u8
+#EXTINF:0 CUID="51232" tvg-name="Ski TV" group-title="Free IPTV Sport",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-HeroGo/193.m3u8
+#EXTINF:0 CUID="51233" tvg-name="Glory Kickboxing*" group-title="Free IPTV Sport",Glory Kickboxing*
+http://127.0.0.1:8088/https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=2053ea32c3c711ecac5140700b0a55af&deviceLat=50.7503&deviceLon=12.4915&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=8b10e57c37be4cda8c77a1bf46606c99&userId=
+#EXTINF:0 CUID="51234" tvg-name="Impact Wrestling*" group-title="Free IPTV Sport",Impact Wrestling*
+http://127.0.0.1:8088/https://d2patm1aklfd8i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-Canada-prod/hls/main.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}
+#EXTINF:0 CUID="51235" tvg-name="Dubai Sports 2" group-title="Free IPTV Sport",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0 CUID="51236" tvg-name="Dubai Sports 3" group-title="Free IPTV Sport",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 CUID="51237" tvg-name="Eurosport 1 (RU)" tvg-id="eurosport1.de" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_1581_41F_1_C00000_0_0_0.png" group-title="Free IPTV Sport",Eurosport 1 (RU)
+https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
+#EXTINF:0 CUID="51238" tvg-name="Eurosport HD (by Samsung TV India)*" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_16_521_D_0_0_0_0.png" group-title="Free IPTV Sport",Eurosport HD (by Samsung TV India)*
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 CUID="51239" tvg-name="Freesports HD*" tvg-id="esports1.de" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_CD5F_844_2_11A0000_0_0_0.png" group-title="Free IPTV Sport",Freesports HD*
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 CUID="51240" tvg-name="ORF Sport+ HD" tvg-id="orfsport.de" tvg-logo="http://pelzixx.bplaced.net/picon/1_0_1_33FD_3ED_1_C00000_0_0_0.png" group-title="Free IPTV Sport",ORF Sport+ HD
+http://80.252.37.194:5000/udp/233.233.233.2:12000
+#EXTINF:0 CUID="51241" tvg-name="Yoga TV" tvg-id="60803e541a829e0008e91641" tvg-logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png" group-title="Free IPTV Sport",Yoga TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60803e541a829e0008e91641/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 CUID="51242" tvg-name="Yogamour TV" tvg-id="ATAJ0500415A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/db/72/5c/db725c36-43f2-cc3b-ec99-7a77c10e791a/mza_11751522967638783534.png/1200x630wp.png" group-title="Free IPTV Sport",Yogamour TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/aa5dae03-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads:app_domain=%25257BAPP_DOMAIN%25257D&ads:app_name=%25257BAPP_NAME%25257D&coppa=1&ads:tcf=%25257BTC_STRING%25257D
+#EXTINF:0 CUID="51243" tvg-name="A Spor Turkey" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_1D5E_C3B4_7E_A00000_0_0_0.png" group-title="Free IPTV Sport",A Spor Turkey
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0 CUID="51244" tvg-name="Absinthe HD*" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_1E23_9F8F_EC_0_0_0_0.png" group-title="Free IPTV Sport",Absinthe HD*
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/52cb6c9d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 CUID="51245" tvg-name="Adventure Sport" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_2A52_53AA_EC_0_0_0_0.png" group-title="Free IPTV Sport",Adventure Sport
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:0 CUID="51246" tvg-name="beIN Sports Extra HD" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_4DC6_4E9C_EC_0_0_0_0.png" group-title="Free IPTV Sport",beIN Sports Extra HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:0 CUID="51247" tvg-name="beIN Sports Extra HD (Spanish)*" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_CFE7_38D4_EC_0_0_0_0.png" group-title="Free IPTV Sport",beIN Sports Extra HD (Spanish)*
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 CUID="51248" tvg-name="Extreme Sports" tvg-id="extremesports.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_A44_521_D_0_0_0_0.png" group-title="Free IPTV Sport",Extreme Sports
+https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+#EXTINF:0 CUID="51249" tvg-name="More than Sports HD" tvg-id="morethansportstv.de" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_D052_2717_F001_FFFF0000_0_0_0.png" group-title="Free IPTV Sport",More than Sports HD
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:0 CUID="51250" tvg-name="Most Video (UA)" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_A146_521_D_0_0_0_0.png" group-title="Free IPTV Sport",Most Video (UA)
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0 CUID="51251" tvg-name="Sportdigital*" tvg-id="sportdigital.de" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_9_299C_CDE9_0_0_0_0.png" group-title="Free IPTV Sport",Sportdigital*
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads:app_domain=%25257BAPP_DOMAIN%25257D&ads:app_name=%25257BAPP_NAME%25257D&coppa=1&ads:tcf=%25257BTC_STRING%25257D
+#EXTINF:0 CUID="51252" tvg-name="SPORT LIVE Replay DK" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_4716_4C3E_EC_0_0_0_0.png" group-title="Free IPTV Sport",SPORT LIVE Replay DK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/618145adb9802500076e1617/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df8ce597-a292-11eb-a2f8-2d14e72ed833&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d240dfa-9346-4487-81a4-f33deb804af8&userId=&serverSideAds=true
+#EXTINF:0 CUID="51253" tvg-name="Sports Channel Network*" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_2BD6_E55E_EC_0_0_0_0.png" group-title="Free IPTV Sport",Sports Channel Network*
+http://127.0.0.1:8088/https://272ab712c4604e8d8980a78b9335981f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SportsChannelNetwork/playlist.m3u8?ads.wurl_channel=391&ads.wurl_name=SportsChannelNetwork&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0&ads.consent={TC_STRING}
+#EXTINF:0 CUID="51254" tvg-name="Sports Connect" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_BAE4_DD5D_EC_0_0_0_0.png" group-title="Free IPTV Sport",Sports Connect
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+#EXTINF:0 CUID="51255" tvg-name="Sport Outdoor HD*" tvg-logo="http://pelzixx.bplaced.net/picon/5002_0_1_A040_2891_EC_0_0_0_0.png" group-title="Free IPTV Sport",Sport Outdoor HD*
+https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8?ads.wurl_channel=614&ads.wurl_name=SportOutdoorTV&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0&ads.consent={TC_STRING}
+#EXTINF:0 CUID="51256" tvg-name="Sporty Stuff UK" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_5867_82E_2_11A0000_0_0_0.png" group-title="Free IPTV Sport",Sporty Stuff UK
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+#EXTINF:0 CUID="51257" tvg-name="SwissSport" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_88AA_75CE_EC_0_0_0_0.png" group-title="Free IPTV Sport",SwissSport
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:0 CUID="51258" tvg-name="TRT Spor" tvg-id="esports1.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_25C5_B37C_EC_0_0_0_0.png" group-title="Free IPTV Sport",TRT Spor
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd?checkedby
+#EXTINF:0 CUID="51259" tvg-name="XSport+ HD (UA)" tvg-id="sport1.de" tvg-logo="http://pelzixx.bplaced.net/picon/4097_0_1_1F31_521_D_0_0_0_0.png" group-title="Free IPTV Sport",XSport+ HD (UA)
+https://api-tv.ipnet.ua/api/v1/manifest/2118742583.m3u8
